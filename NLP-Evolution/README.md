@@ -3,7 +3,7 @@ $$
 \sigma(z) = \frac{1}{1 + e^{-z}}
 $$
 
-$P(y = 1 | x) = \sigma(z) = \frac{1}{1 + e^{-z}}$ и $P(y = 0 | x) = 1 - \sigma(z) = \frac{e^{-z}}{1 + e^{-z}}$
+$L(y, p) = - y \log p - (1 - y) \log (1 - p)$
 
 Это пример встроенной формулы: $f'(x) = \frac{dy}{dx}$.
 
