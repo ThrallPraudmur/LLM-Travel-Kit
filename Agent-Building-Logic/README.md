@@ -1,5 +1,6 @@
-# Описание гигафункций
- 
+## Описание гигафункций
+
+```python 
 giga_functions = [
     # описание гигафункции получения списка карт
     {
@@ -73,4 +74,5 @@ descriptions = [
 giga_functions_description = "\n".join(descriptions)
  
 set_variable("giga_functions_description", giga_functions_description)
+```
 
