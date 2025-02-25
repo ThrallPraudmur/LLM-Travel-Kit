@@ -3,7 +3,7 @@ $$
 \sigma(z) = \frac{1}{1 + e^{-z}}
 $$
 
-$L(y, p) = - y \times \log p - (1 - y) \times \log (1 - p)$
+$L(y, p) = - y * \log p - (1 - y) * \log (1 - p)$
 
 Это пример встроенной формулы: $f'(x) = \frac{dy}{dx}$.
 
