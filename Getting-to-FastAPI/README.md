@@ -1,3 +1,6 @@
+## Введение в API
+### Что такое API?
+
 API - Application Programming Interface
 `JSON` - предпочтительный формат данных для API
 `RESTful API` - популярная архитектура
