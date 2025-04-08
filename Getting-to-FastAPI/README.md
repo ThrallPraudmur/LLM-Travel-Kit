@@ -19,3 +19,4 @@
 uvicorn api:app --port 8000 --reload
 ```
 где `uvicorn` принимает следующие элементы:
+* `file:instance`: файл
