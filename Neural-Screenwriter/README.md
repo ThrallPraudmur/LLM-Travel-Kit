@@ -7,6 +7,13 @@
 ## ПРОМПТЫ ДЛЯ SORA
 ### 🧩 Что делаем мои промпты сильными?
 1. Эмоциональная направленность
-* He clutches her waist in tearful repentance...
-* She stands rigid, her expression ice-cold...
-2. 
+* `He clutches her waist in tearful repentance...`
+* `She stands rigid, her expression ice-cold...`
+2. Кинематографический язык
+* `high-contrast 35mm film still`
+* `low angle`
+* `Barry Lyndon lighting`
+* `Phantom Thread composition`
+3. Поверхностные детали для модели, которые заставляют модель строить слои смысла
+* `cracked locket`, `frozen silk`, `wax mid-air` физическое ощущение времени.
+* `film grain`, `uneven film stock` даёт правдоподобие эпохи.
