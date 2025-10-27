@@ -19,6 +19,8 @@
 * `film grain`, `uneven film stock` даёт правдоподобие эпохи
 4. Контраст эмоций, идеально для видео
 
+  A powerful sorceress, Taisa (resembling Taissa Farmiga), in a dark robe, forcibly exorcise a revolutionary (resembling Evan Peters) against his will. Her hands glow with ominous shadow energy, tearing open a portal to reality. The revolutionary is pulled inside, his face contorted in defiance and terror. Cinematic lighting, dramatic shadows, volumetric fog, hyper-detail, 8K, slow motion.
+
 ```python
 Cinematic dark fantasy video sequence, 35mm film grain. 
 [describe setting and era],
