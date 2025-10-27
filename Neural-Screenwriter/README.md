@@ -15,5 +15,7 @@
 * `Barry Lyndon lighting`
 * `Phantom Thread composition`
 3. Поверхностные детали для модели, которые заставляют модель строить слои смысла
-* `cracked locket`, `frozen silk`, `wax mid-air` физическое ощущение времени.
-* `film grain`, `uneven film stock` даёт правдоподобие эпохи.
+* `cracked locket`, `frozen silk`, `wax mid-air` физическое ощущение времени
+* `film grain`, `uneven film stock` даёт правдоподобие эпохи
+4. Контраст эмоций, идеально для видео
+5. 
