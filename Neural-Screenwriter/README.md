@@ -18,4 +18,15 @@
 * `cracked locket`, `frozen silk`, `wax mid-air` физическое ощущение времени
 * `film grain`, `uneven film stock` даёт правдоподобие эпохи
 4. Контраст эмоций, идеально для видео
-5. 
+
+```python
+Cinematic dark fantasy video sequence, 35mm film grain. 
+[describe setting and era],
+[describe emotional interaction between Taissa Farmiga and Evan Peters],
+[describe camera motion and light behavior],
+[describe atmosphere and symbolic details],
+film references: [Barry Lyndon, The VVitch, Crimson Peak],
+color grade: [muted cold palette with subtle red accents],
+texture: [motion blur, dust, frost breath],
+negative prompt: [happy faces, clean digital look, symmetry, oversaturation, cartoon]
+```
